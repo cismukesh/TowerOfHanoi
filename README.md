@@ -18,7 +18,7 @@ This repository contains two files, TOFMain.java and TowerOfHanoi.java. TOFMain 
 
 OFMain.java is the mian file , which outputs the last nine digits of ∑1≤n≤10000.
 
-## to run the program
+## To run the program
 you just need to run TOFMain.java as java application from any IDE like eclipse or Intellij or you can run from command prompt by executing below commands in project directory
 Please make sure to update tests as appropriate.
 
